@@ -14,7 +14,7 @@ const UserViewTable = () => {
 
   const handleOpen = (rowdata) => {
     setData(rowdata);
-    setOpen(true);
+    setOpen(true);+++++
   };
   return (
     <div>
